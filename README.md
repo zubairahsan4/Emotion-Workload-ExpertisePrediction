@@ -5,3 +5,5 @@ This model was trained using the average valence*, the average arousal*, the ave
 *The average valence and average arousal were calculated for each participant on all the questions they attempted. The valence and arousal for each question were calculated by a follow-up SAM Test that was presented to the participants after each programming question. 
 
 ^Overall expertise was calculated by the percentage of the correct answers that the participants got. Two groups were formed; high performers and low performers.
+
+This work has been supported by grant no, GPF095C-2020.
