@@ -7,3 +7,5 @@ This model was trained using the average valence*, the average arousal*, the ave
 ^Overall expertise was calculated by the percentage of the correct answers that the participants got. Two groups were formed; high performers and low performers.
 
 This work has been supported by the University of Malaya Research Grant - Faculty Research (GPF095C-2020).
+
+EmotionPredictor.sav is for python users who wish to use this model. 
