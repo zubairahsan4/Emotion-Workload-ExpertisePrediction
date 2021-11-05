@@ -8,4 +8,8 @@ This model was trained using the average valence*, the average arousal*, the ave
 
 This work has been supported by the University of Malaya Research Grant - Faculty Research (GPF095C-2020).
 
-EmotionPredictor.sav is for python users who wish to use this model. 
+EmotionPredictor.sav is for python users who wish to use this model. You can use joblib to import this file into your .py file and make new predictions.
+
+trainedModel-E&W for Expertise Prediction.mat is for MATLAB users who wish to use this model.
+
+If you have any questions on the usage of either model, please do not hesitate to contact me at my email: zubairahsan4@gmail.com.
